@@ -19,7 +19,7 @@ The Roman Numeral Converter is a web application that allows users to convert Ro
 
 ## Installation and Usage
 
-1. Clone the repository: `git clone https://github.com/your-username/roman-numeral-converter.git`
+1. Clone the repository: `git clone https://github.com/p7atama/roman-numeral-converter.git`
 2. Set up a local web server or use a web server package like XAMPP, WAMP, or MAMP.
 3. Configure the web server to point to the project directory.
 4. Access the app by opening `index.html` in a web browser.
